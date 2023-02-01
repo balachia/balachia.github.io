@@ -7,6 +7,7 @@ body {
 h1, h2, h3, h4, h5 {
     font-family: 'Raleway', Arial, sans-serif;
     font-weight: 100;
+    margin-top: 1.5em;
 }
 
 h1 {
@@ -15,19 +16,26 @@ h1 {
 
 h2 {
     font-size: 1.25em;
+    font-weight: 300;
 }
 
 h3 {
     font-size: 1em;
+    font-weight: 400;
+}
+
+#header h1 {
+    margin-bottom: 0px;
 }
 
 nav ul {
+    margin-top: 0.5em;
     padding-inline-start: 0;
 }
 
 nav li {
     display: inline;
-    padding: 0px 10px 0px 10px;
+    padding: 0 1em 0 1em;
     border-left: 1px #000 solid;
 }
 
@@ -41,7 +49,7 @@ nav li:first-child {
 
 @media (min-width: 481px) {
     main {
-        margin: 40px;
+        margin: 2em;
     }
 }
 
@@ -55,6 +63,19 @@ nav li:first-child {
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
 /* Roboto */
 
 @font-face {
@@ -97,4 +118,46 @@ nav li:first-child {
     src: url('../fonts/Roboto-Black.ttf');
     font-weight: 900;
     font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Italic.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-LightItalic.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-ThinItalic.ttf');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-MediumItalic.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-BoldItalic.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-BlackItalic.ttf');
+    font-weight: 900;
+    font-style: italic;
 }

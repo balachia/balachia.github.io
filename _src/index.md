@@ -2,17 +2,18 @@
 layout: default.liquid
 ---
 
-# Anthony Vashevko
-
-<div id="nav">
-    <nav>
-        <ul>
-            <li><a href="/files/cv.pdf">CV</a></li>
-            <li><a href="https://www.insead.edu/faculty-research/faculty/anthony-vashevko">INSEAD</a></li>
-            <li><a href="https://scholar.google.com/citations?user=5dNZZ2UAAAAJ">Google Scholar</a></li>
-            <li><a href="https://github.com/balachia">Github</a></li>
-        </ul>
-    </nav>
+<div id="header">
+    <h1>Anthony Vashevko</h1>
+    <div id="nav">
+        <nav>
+            <ul>
+                <li><a href="/files/cv.pdf">CV</a></li>
+                <li><a href="https://www.insead.edu/faculty-research/faculty/anthony-vashevko">INSEAD</a></li>
+                <li><a href="https://scholar.google.com/citations?user=5dNZZ2UAAAAJ">Google Scholar</a></li>
+                <li><a href="https://github.com/balachia">Github</a></li>
+            </ul>
+        </nav>
+    </div>
 </div>
 
 ## About Me
@@ -50,6 +51,8 @@ identifying theoretical problems and gaps existing within these streams of work
 and on providing formal approaches that help interpret, extend, and unify
 existing findings. Where possible, I have attempted to apply these theoretical
 extensions to empirical settings, especially in my work on social networks.
+
+### Selected Papers
 
 **[Does the Middle Conform or Compete? Quality Thresholds Predict the Locus of Innovation](https://doi.org/10.1287/orsc.2018.1240)**
  | [pdf](/files/mid-status.pdf)
