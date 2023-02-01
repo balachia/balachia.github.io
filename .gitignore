@@ -1,0 +1,6 @@
+#ignore output
+docs/*
+
+# ignore node
+node_modules/*
+package-lock.json
