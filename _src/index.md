@@ -123,6 +123,8 @@ decomposition.
 
 *Anthony Vashevko*
 
+*conditionally accepted*, Organization Science
+
 Category theory finds that markets partition producers into categories and that
 producers who do not fit one specific category—or who span multiple
 categories—perform worse than their single-category peers. The dominant thread

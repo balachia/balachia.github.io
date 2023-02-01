@@ -1,3 +1,5 @@
+.PHONY: build serve copy-cv
+
 .DEFAULT_GOAL: build
 
 build:
@@ -6,5 +8,5 @@ build:
 serve:
 	npx @11ty/eleventy --serve
 
-.PHONY: build
-.PHONY: serve
+copy-cv:
+	cp ~/Documents/CV/vashevko-cv.pdf ./_src/files/cv.pdf
