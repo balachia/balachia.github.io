@@ -1,0 +1,100 @@
+body {
+    max-width: 960px;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Raleway', Arial, sans-serif;
+    font-weight: 100;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+nav ul {
+    padding-inline-start: 0;
+}
+
+nav li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    border-left: 1px #000 solid;
+}
+
+nav li:first-child {
+    display: inline;
+    border-left: none;
+    padding-left: 0px;
+}
+
+/* Responsive */
+
+@media (min-width: 481px) {
+    main {
+        margin: 40px;
+    }
+}
+
+
+/* Raleway */
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway-Thin.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* Roboto */
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Thin.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Black.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
