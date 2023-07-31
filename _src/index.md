@@ -54,6 +54,29 @@ extensions to empirical settings, especially in my work on social networks.
 
 ### Selected Papers
 
+**The Natural Emergence of Category Effects on Rugged Landscapes**
+ | [pdf](/files/producer-categories.pdf)
+
+*Anthony Vashevko*
+
+*forthcoming*, Organization Science
+
+Category theory finds that markets partition producers into categories and that
+producers who do not fit one specific category—or who span multiple
+categories—perform worse than their single-category peers. The dominant thread
+of category theory argues that categorizations stem from the bounded rationality
+of market audiences, who are forced to impose categorizations and ignore
+miscategorized producers to efficiently interact with the market. I present an
+alternative model in which producers in a market segregate into categories and
+experience an apparent miscategorization penalty not driven by a market
+audience: In a complex environment, producers imitate successful predecessors.
+Ex-post rationalization identifies clusters as categories. Categories reflect,
+but do not cause, producer success. This model of exploration of a complex
+environment accounts for the basic findings of category theory, and it predicts
+the dynamics of category emergence and change over time. I establish these
+results in a formal model and simulation.
+
+
 **[Does the Middle Conform or Compete? Quality Thresholds Predict the Locus of Innovation](https://doi.org/10.1287/orsc.2018.1240)**
  | [pdf](/files/mid-status.pdf)
 
@@ -116,29 +139,6 @@ combining information from the underlying network with the information from the
 hierarchical structure of the network. The authors illustrate the proposed
 method with social networks examined through cohesive blocking and k-core
 decomposition.
-
-
-**The Natural Emergence of Category Effects on Rugged Landscapes**
- | [pdf](/files/producer-categories.pdf)
-
-*Anthony Vashevko*
-
-*conditionally accepted*, Organization Science
-
-Category theory finds that markets partition producers into categories and that
-producers who do not fit one specific category—or who span multiple
-categories—perform worse than their single-category peers. The dominant thread
-of category theory argues that categorizations stem from the bounded rationality
-of market audiences, who are forced to impose categorizations and ignore
-miscategorized producers to efficiently interact with the market. I present an
-alternative model in which producers in a market segregate into categories and
-experience an apparent miscategorization penalty not driven by a market
-audience: In a complex environment, producers imitate successful predecessors.
-Ex-post rationalization identifies clusters as categories. Categories reflect,
-but do not cause, producer success. This model of exploration of a complex
-environment accounts for the basic findings of category theory, and it predicts
-the dynamics of category emergence and change over time. I establish these
-results in a formal model and simulation.
 
 
 **The Matthew Effect as Skill and Strategy**
